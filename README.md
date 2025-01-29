@@ -5,11 +5,11 @@ Olá, Bem vindo ao meu projeto de portfólio!
 
 ## Ferramentas utilizadas:
 
-*HTML
+* HTML
 
-*CSS
+* CSS
 
-*Flex-box
+* Flex-box
 
 ## Link para visualizar o projeto:
 * https://adrian-daniel.github.io/portfolio/
